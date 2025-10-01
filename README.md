@@ -9,10 +9,7 @@
 </div>
 
 <p align="center">
-  I'm an undergraduate student of <b>HNDIT</b>, passionate about web and software development.  
-  Currently, I'm working on projects like a <b>Car Wash Management System</b> and a <b>Tourism Website</b>, 
-  applying my knowledge of <b>Laravel, React, PHP, and MySQL</b>.  
-  I enjoy learning new tools, solving problems, and building creative solutions.  
+  I’m an undergraduate student of HNDIT, passionate about web and software development. I enjoy exploring new technologies, solving problems, and creating innovative solutions. Always eager to learn and grow in the IT field.  
   Feel free to reach out to me at <b>kavindac2002@gmail.com</b>.
 </p>
 
